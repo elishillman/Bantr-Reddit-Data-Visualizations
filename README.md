@@ -1,5 +1,6 @@
 # Bantr-Reddit-Data-Visualizations
 Using Reddit data to create visualizations to assist with content decisions for Bantr
+
 Bantr is a TV social media app. For more information, visit [here](https://linktr.ee/bantr).
 
 ## Visualizations included
@@ -14,6 +15,7 @@ Bantr is a TV social media app. For more information, visit [here](https://linkt
 
 ## Presentation
 Findings were presented to Bantr executives in the form of a PowerPoint presentation.
+
 Link to said presentation [here](https://docs.google.com/presentation/d/1JRsTknARk49in-XPcjh78o9k5v8cD5KL1ru5Iq3GLHg/edit?usp=sharing)
 
 Two out of the three suggested content additions were added to the app within the next two months.
